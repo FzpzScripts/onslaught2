@@ -1,0 +1,5 @@
+game.Players.LocalPlayer:Kick("stop cheating silly goose")
+
+print("silly ole cheater has been kicked")
+
+-- imagine cheating
